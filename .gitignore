@@ -1,0 +1,13 @@
+./TCK-b1/.idea
+./TCK-b1/cmake-build-debug
+./TCK-b1/CMakeLists.txt
+./TCK-b2/.idea
+./TCK-b2/cmake-build-debug
+./TCK-b2/CMakeLists.txt
+./TCK-b3/.idea
+./TCK-b3/cmake-build-debug
+./TCK-b3/CMakeLists.txt
+./TCK-b4/.idea
+./TCK-b4/cmake-build-debug
+./TCK-b4/CMakeLists.txt
+./.idea
